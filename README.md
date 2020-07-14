@@ -1,4 +1,4 @@
-<img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/gabriel.png?raw=true" width="500px" height="380px"  align='right' />
+<img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/gabriel.png?raw=true" width="440px" height="360px"  align='right' />
 
 ### Hey, I'm Gabriel 👋
 
