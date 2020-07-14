@@ -4,7 +4,7 @@
 
 <p>Enthusiast of the best software development technologies, self-taught and a Software Developer at Letrus.</p>
 
-<p>Currently working with <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/typescript.png" alt="react" height="15"> TypeScript <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/react.png" alt="react" height="15"> React, <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/react-native.png" alt="react-native" height="15"> React Native and <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/nodejs.png" alt="nodejs" height="15"> Node.js.</p>
+<p>Currently working with <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/typescript.png" alt="react" height="15"> TypeScript, <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/react.png" alt="react" height="15"> React, <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/react-native.png" alt="react-native" height="15"> React Native and <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/nodejs.png" alt="nodejs" height="15"> Node.js.</p>
 
 <h4>I'm also a:</h4>
 
