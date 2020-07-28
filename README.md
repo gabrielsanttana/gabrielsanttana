@@ -1,6 +1,6 @@
 <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/gabriel.png?raw=true" width="440px" height="360px"  align='right' />
 
-### Hey, I'm Gabriel 👋🏼
+## Hey, I'm Gabriel 👋🏼
 
 <p>Enthusiast of the best software development technologies, self-taught and a Software Developer at Letrus.</p>
 
@@ -13,6 +13,8 @@
 🧠 Learning addict
 
 🎮 Books, games and movies fan
+
+☕ Coffee lover
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Santana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsanttana)](https://www.linkedin.com/in/gabrielsanttana)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.gsantana7@gmail.com)](mailto:gabriel.gsantana7@gmail.com)
