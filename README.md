@@ -16,5 +16,5 @@
 
 ☕ Coffee lover
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Santana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsanttana)](https://www.linkedin.com/in/gabrielsanttana)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsanttana)](https://www.linkedin.com/in/gabrielsanttana)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.gsantana7@gmail.com)](mailto:gabriel.gsantana7@gmail.com)
