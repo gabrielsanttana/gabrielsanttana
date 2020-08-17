@@ -1,6 +1,6 @@
 <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/gabriel.png?raw=true" width="440px" height="360px"  align='right' />
 
-## Hey, I'm Gabriel 👋🏼
+## Hey, I'm Gabriel 👋🏽
 
 <p>Enthusiast of the best software development technologies, self-taught and a Software Developer at Letrus.</p>
 
