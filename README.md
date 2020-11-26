@@ -2,7 +2,7 @@
 
 ## Hey, I'm Gabriel 👋🏽
 
-<p>Enthusiast of the best software development technologies, self-taught and a Software Developer at Letrus.</p>
+<p>Enthusiast of the best software engineering technologies, self-taught and a Software Developer at Letrus.</p>
 
 <p>Currently working with <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/typescript.png" alt="react" height="15"> TypeScript, <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/react.png" alt="react" height="15"> React and <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/react-native.png" alt="react-native" height="15"> React Native.
 
