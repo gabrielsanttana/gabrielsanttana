@@ -10,13 +10,13 @@
 
 <h4>I'm also a:</h4>
 
-- 🎸 Musician
+🎸 Musician
 
-- 🧠 Learning addict
+🧠 Learning addict
 
-- 🎮 Books, games and movies fan
+🎮 Books, games and movies fan
 
-- ☕ Coffee lover
+☕ Coffee lover
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsanttana)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.gsantana7@gmail.com)
