@@ -6,7 +6,7 @@
 
 <p>Currently working with <img src="./.github/typescript.png" alt="react" height="15"> TypeScript, <img src="./.github/react.png" alt="react" height="15"> React and <img src="./.github/react-native-purple.png" alt="react-native" height="15"> React Native.
 
-<p>Presently striving to contribute to the <img src="./.github/open-source.png" alt="react" height="16"> open source community.</p>
+<p>Presently seeking to contribute to the <img src="./.github/open-source.png" alt="react" height="16"> open source community.</p>
 
 <h4>I'm also a:</h4>
 
