@@ -2,7 +2,7 @@
 
 ## Hey, I'm Gabriel 👋🏽
 
-<p>Enthusiast of the best software engineering technologies, self-taught and a Software Developer at Letrus.</p>
+<p>Enthusiast of the best software engineering technologies, self-taught and a Software Engineer at Letrus.</p>
 
 <p>Currently working with <img src="./.github/typescript.png" alt="react" height="15"> TypeScript, <img src="./.github/react.png" alt="react" height="15"> React and <img src="./.github/react-native-purple.png" alt="react-native" height="15"> React Native.
 
