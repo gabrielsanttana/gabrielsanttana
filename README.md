@@ -6,13 +6,13 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsanttana/)](https://www.linkedin.com/in/gabrielsanttana/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.gsantana7@gmail.com)](mailto:gabriel.gsantana7@gmail.com)
 
-- <p>👨🏽‍💻 Enthusiast of the best software engineering technologies, self-taught and a Software Engineer at Letrus</p>
+<p>👨🏽‍💻 Enthusiast of the best software engineering technologies, self-taught and a Software Engineer at Letrus</p>
 
-- <p><img src="./.github/react.png" alt="react" height="17"> Currently working with  TypeScript,  React and  React Native
+<p><img src="./.github/react.png" alt="react" height="17"> Currently working with  TypeScript,  React and  React Native
 
-- <p>🎓 Currently an undergraduate student at the University of Campinas</p>
+<p>🎓 Currently an undergraduate student at the University of Campinas</p>
 
-- <p><img src="./.github/open-source.png" alt="react" height="16"> Presently seeking to contribute to the open source community</p>
+<p><img src="./.github/open-source.png" alt="react" height="16"> Presently seeking to contribute to the open source community</p>
 
 ### I'm also a:
 
