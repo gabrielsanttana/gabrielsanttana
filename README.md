@@ -1,14 +1,20 @@
 <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/gabriel.png?raw=true" width="440px" height="360px"  align='right' />
 
-## Hey, I'm Gabriel 👋🏽
+# Hey, I'm Gabriel 👋🏽
 
-<p>Enthusiast of the best software engineering technologies, self-taught and a Software Engineer at Letrus.</p>
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielsanttana)](https://github.com/gabrielsanttana)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsanttana/)](https://www.linkedin.com/in/gabrielsanttana/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.gsantana7@gmail.com)](mailto:gabriel.gsantana7@gmail.com)
 
-<p>Currently working with <img src="./.github/typescript.png" alt="react" height="15"> TypeScript, <img src="./.github/react.png" alt="react" height="15"> React and <img src="./.github/react-native-purple.png" alt="react-native" height="15"> React Native.
+- <p>👨🏽‍💻 Enthusiast of the best software engineering technologies, self-taught and a Software Engineer at Letrus</p>
 
-<p>Presently seeking to contribute to the <img src="./.github/open-source.png" alt="react" height="16"> open source community.</p>
+- <p><img src="./.github/react.png" alt="react" height="17"> Currently working with  TypeScript,  React and  React Native
 
-<h4>I'm also a:</h4>
+- <p>🎓 Currently an undergraduate student at the University of Campinas</p>
+
+- <p><img src="./.github/open-source.png" alt="react" height="16"> Presently seeking to contribute to the open source community</p>
+
+### I'm also a:
 
 🎸 Musician
 
@@ -18,5 +24,9 @@
 
 ☕ Coffee lover
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsanttana)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.gsantana7@gmail.com)
+<a href="https://github.com/gabrielsanttana/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsanttana&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+</a>
+<a href="https://github.com/gabrielsanttana/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsanttana&layout=compact&langs_count=6&hide_border=true" />
+</a>
