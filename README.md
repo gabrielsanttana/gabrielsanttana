@@ -28,5 +28,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsanttana&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
 </a>
 <a href="https://github.com/gabrielsanttana/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsanttana&layout=compact&langs_count=6&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsanttana&layout=compact&langs_count=8&hide_border=true&hide=php,css" />
 </a>
