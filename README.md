@@ -10,7 +10,7 @@
 
 <p><img src="./.github/react.png" alt="react" height="17"> Currently working with  TypeScript,  React and  React Native
 
-<p>🎓 Currently an undergraduate student at the University of Campinas</p>
+<p>🎓 Currently graduating from the University of Campinas</p>
 
 <p><img src="./.github/open-source.png" alt="react" height="16"> Presently seeking to contribute to the open source community</p>
 
