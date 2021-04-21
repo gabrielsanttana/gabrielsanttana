@@ -5,6 +5,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielsanttana)](https://github.com/gabrielsanttana)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsanttana/)](https://www.linkedin.com/in/gabrielsanttana/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.gsantana7@gmail.com)](mailto:gabriel.gsantana7@gmail.com)
+[![Stackverflow Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack%20overflow&logoColor=fff)](https://stackoverflow.com/users/12422017/gabriel-santana)
 
 <p>👨🏽‍💻 Enthusiast of the best software engineering technologies, self-taught and a Software Engineer at Letrus</p>
 
