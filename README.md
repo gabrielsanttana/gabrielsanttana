@@ -31,3 +31,5 @@
 <a href="https://github.com/gabrielsanttana/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsanttana&layout=compact&langs_count=8&hide_border=true&hide=php,css" />
 </a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsanttana&hide_border=true" />
