@@ -19,11 +19,11 @@
 
 🎸 Musician
 
-🧠 Learning addict
+☕ Coffee lover
 
 🎮 Books, games and movies fan
 
-☕ Coffee lover
+🧠 Learning addict
 
 <a href="https://github.com/gabrielsanttana/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsanttana&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula" />
