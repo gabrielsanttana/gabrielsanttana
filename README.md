@@ -13,7 +13,7 @@
 
 <p>🎓 Currently graduating from the University of Campinas</p>
 
-<p><img src="./.github/open-source.png" alt="react" height="16"> Presently seeking to contribute to the open source community</p>
+<p><img src="./.github/open-source.png" alt="react" height="16"> Seeking to contribute more to the open source community</p>
 
 ### I'm also a:
 
