@@ -1,6 +1,6 @@
 <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/gabriel.png?raw=true" width="440px" height="440px"  align='right' />
 
-# Hey, I'm <a href="https://www.linkedin.com/in/gabrielsanttana" target="_blank">Gabriel</a>  👋🏽
+<h1>Hey, I'm <a href="https://www.linkedin.com/in/gabrielsanttana" target="_blank">Gabriel</a> 👋🏽</h1>
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielsanttana)](https://github.com/gabrielsanttana)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsanttana/)](https://www.linkedin.com/in/gabrielsanttana/)
