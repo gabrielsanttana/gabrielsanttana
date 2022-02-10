@@ -1,13 +1,13 @@
 <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/gabriel.png?raw=true" width="440px" height="440px"  align='right' />
 
-# Hey, I'm [Gabriel](https://www.linkedin.com/in/gabrielsanttana/) 👋🏽
+# Hey, I'm <a href="https://www.linkedin.com/in/gabrielsanttana" target="_blank">Gabriel</a>  👋🏽
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielsanttana)](https://github.com/gabrielsanttana)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsanttana/)](https://www.linkedin.com/in/gabrielsanttana/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.gsantana7@gmail.com)](mailto:gabriel.gsantana7@gmail.com)
 [![Stackverflow Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack%20overflow&logoColor=fff)](https://stackoverflow.com/users/12422017/gabriel-santana)
 
-<p>👨🏽‍💻 Enthusiast of software engineering, self-taught and a Software Engineer at <a href="https://www.letrus.com.br">Letrus</a></p>
+<p>👨🏽‍💻 Enthusiast of software engineering, self-taught and a Software Engineer at <a href="https://www.letrus.com.br" target="_blank">Letrus</a></p>
 
 <p><img src="./.github/react.png" alt="react" height="17"> Currently working with  TypeScript,  React and  React Native
 
