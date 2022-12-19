@@ -1,6 +1,6 @@
 <img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/gabriel.png?raw=true" width="440px" height="440px"  align='right' />
 
-<h1>Hey, I'm <a href="https://www.linkedin.com/in/gabrielsanttana" target="_blank">Gabriel</a> 👋🏽</h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/gabrielsanttana" target="_blank">Gabriel</a> 👋🏽</h1>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsanttana/)](https://www.linkedin.com/in/gabrielsanttana/)
 [![Stackverflow Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack%20overflow&logoColor=fff)](https://stackoverflow.com/users/12422017/gabriel-santana)
