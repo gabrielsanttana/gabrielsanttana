@@ -5,9 +5,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsanttana/)](https://www.linkedin.com/in/gabrielsanttana/)
 [![Stackverflow Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack%20overflow&logoColor=fff)](https://stackoverflow.com/users/12422017/gabriel-santana)
 
-<p>👨🏽‍💻 Enthusiast of computer engineering, self-taught and a Software Engineer at <a href="https://www.letrus.com.br" target="_blank">Letrus</a></p>
+<p>💻 Enthusiast of computer engineering, self-taught and a Software Engineer at <a href="https://www.letrus.com" target="_blank">Letrus</a></p>
 
-<p><img src="./.github/react.png" alt="react" height="17"> Currently working with  TypeScript,  React and  React Native
+<p>🌐 Currently working mainly with web technlogies such as JavaScript, TypeScript and React.
 
 <p>🎓 Graduated from the University of Campinas</p>
 
@@ -19,7 +19,7 @@
 
 ☕ Coffee lover
 
-🎮 Books, games and movies fan
+🎮 Gamer, books and movies fan
 
 🧠 Learning addict
 
