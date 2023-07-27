@@ -1,4 +1,4 @@
-<img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/gabriel.png?raw=true" width="440px" height="440px"  align='right' />
+<img src="./.github/CPU.svg" width="420px" height="420px"  align='right' />
 
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/gabrielsanttana" target="_blank">Gabriel</a> 👋🏽</h1>
 
