@@ -11,7 +11,7 @@
 
 <p>🎓 Graduated from the University of Campinas</p>
 
-<p>🤝 Seeking to contribute more to the open source community</p>
+<p>🤝🏽 Seeking to contribute more to the open source community</p>
 
 ### I'm also a:
 
