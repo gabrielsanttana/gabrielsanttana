@@ -7,7 +7,7 @@
 
 <p>💻 Computer Engineering enthusiast, self-taught and a Software Engineer at <a href="https://www.letrus.com" target="_blank">Letrus</a></p>
 
-<p>🌐 Currently working mainly with web technlogies such as JavaScript, TypeScript and React</p>
+<p>🌐 Currently working around the JavaScript ecossystem</p>
 
 <p>🎓 Graduated from the University of Campinas</p>
 
