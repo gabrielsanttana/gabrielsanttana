@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsanttana/)](https://www.linkedin.com/in/gabrielsanttana/)
 [![Stackverflow Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack%20overflow&logoColor=fff)](https://stackoverflow.com/users/12422017/gabriel-santana)
 
-<p>💻 Software Engineer, Computer Engineering enthusiast and self-taught</p>
+<p>💻 Software Engineer, computer engineering enthusiast and self-taught</p>
 
 <p>🌐 Currently working around the JavaScript ecossystem</p>
 
