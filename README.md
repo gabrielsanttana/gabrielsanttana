@@ -17,7 +17,7 @@
 
 🎸 Musician
 
-☕ Coffee connoisseur
+☕ Coffee enjoyer
 
 🧠 Learning addict
 
