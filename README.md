@@ -20,5 +20,3 @@
 ☕ Coffee enjoyer
 
 🧠 Learning addict
-
-🎮 Gamer, reader and poser cinephile
