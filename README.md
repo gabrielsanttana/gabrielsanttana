@@ -7,7 +7,7 @@
 
 <p>💻 Software Developer, computer engineering enthusiast, self-taught</p>
 
-<p>🌐 Currently working with the JavaScript ecossystem, both on frontend and backend</p>
+<p>🌐 Currently working with the JavaScript ecossystem, frontend and backend</p>
 
 <p>🎓 Graduated from the University of Campinas</p>
 
