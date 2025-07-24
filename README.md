@@ -11,7 +11,9 @@
 
 <p>🎓 Graduated from the University of Campinas</p>
 
-<p>🤝🏽 Looking to contribute to the open source community</p>
+<p>🤝🏽 Looking to contribute open source</p>
+
+<p>🔬 Diving into low level with Assembly</p>
 
 ### I'm also a:
 
