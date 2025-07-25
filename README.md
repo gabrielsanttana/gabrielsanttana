@@ -13,7 +13,7 @@
 
 <p>🤝🏽 Looking to contribute to open source</p>
 
-<p>💾 Digging into low-level with Assembly</p>
+<p> Digging into low-level with x86 Assembly</p>
 
 ### I'm also a:
 
