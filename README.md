@@ -21,4 +21,4 @@
 
 ☕ Drink coffee
 
-🎮 Game here and there
+🎮 Do some gaming
