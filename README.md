@@ -13,7 +13,7 @@
 
 <p>📖 Looking to contribute to open source</p>
 
-<p>🧪 Digging into low-level with x86-64</p>
+<p>🧑🏽‍🔬 Digging into low-level with x86-64</p>
 
 ### I also:
 
