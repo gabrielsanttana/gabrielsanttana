@@ -7,7 +7,7 @@
 
 <p>💻 Software Craftsman, computer engineering enthusiast, fullstack, learner</p>
 
-<p>🌐 Currently working with the JavaScript ecossystem, both on frontend and backend</p>
+<p>🌐 Currently working on the JavaScript ecossystem, both on frontend and backend</p>
 
 <p>🎓 Graduated from the University of Campinas</p>
 
