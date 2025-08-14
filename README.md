@@ -2,7 +2,7 @@
 
 <h1>I'm <a href="https://www.linkedin.com/in/gabrielsanttana" target="_blank">Gabriel</a> 👋🏽</h1>
 
-<p> Check out <b><a href="https://thepomodoro.net" style="color: #980FFA">The Pomodoro</a></b>!</p>
+<p> Check out <b><a href="https://thepomodoro.net" target="_blank">The Pomodoro</a></b>!</p>
 
 <!-- ![The Pomodoro](https://img.shields.io/badge/-The%20Pomodoro-%23980FFA?style=flat-square&logo=linear&logoColor=%23ffffff&color=%23CA00F8&link=https%3A%2F%2Fthepomodoro.net) -->
 
