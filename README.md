@@ -1,13 +1,14 @@
 <img src="./.github/cpu.svg" width="420px" height="420px"  align='right' />
 
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/gabrielsanttana" target="_blank">Gabriel</a> 👋🏽</h1>
+<h1>I'm <a href="https://www.linkedin.com/in/gabrielsanttana" target="_blank">Gabriel</a> 👋🏽</h1>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsanttana/)](https://www.linkedin.com/in/gabrielsanttana/)
-[![Stackverflow Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack%20overflow&logoColor=fff)](https://stackoverflow.com/users/12422017/gabriel-santana)
+<p> Check out <b><a href="https://thepomodoro.net" style="color: #980FFA">The Pomodoro</a></b>!</p>
 
-<p>💻 Software Craftsman, computer engineering enthusiast, fullstack, learner</p>
+<!-- ![The Pomodoro](https://img.shields.io/badge/-The%20Pomodoro-%23980FFA?style=flat-square&logo=linear&logoColor=%23ffffff&color=%23CA00F8&link=https%3A%2F%2Fthepomodoro.net) -->
 
-<p>🌐 Currently working on the JavaScript ecossystem, both on frontend and backend</p>
+<p>💻 Software Developer, computer engineering enthusiast, fullstack, learner</p>
+
+<p>🌐 Currently working with the JavaScript ecossystem, both on frontend and backend</p>
 
 <p>🎓 Graduated from the University of Campinas</p>
 
