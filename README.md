@@ -22,4 +22,6 @@
 
 ☕ Drink coffee
 
-🎮 Do some gaming
+🏋🏾‍♂️ Lift some weights
+
+🎮 Grind
