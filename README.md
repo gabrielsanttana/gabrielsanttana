@@ -7,7 +7,7 @@
   <p>Join <b><a href="https://thepomodoro.net" target="_blank">The Pomodoro! 🍅</a></b></p>
   
   
-  <p>💻 Software Developer, computer engineering enthusiast, fullstack, learner<p/>
+  <p>💻 Computer engineering enthusiast, fullstack, learner<p/>
   <p>💛 Currently working with the JavaScript ecosystem<p/>
   <p>🎓 Graduated from the University of Campinas<p/>
   <p>📖 Looking for open source contribution<p/>
