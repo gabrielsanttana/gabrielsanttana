@@ -4,7 +4,7 @@
 
   <h1>I'm <a href="https://www.linkedin.com/in/gabrielsanttana" target="_blank">Gabriel</a> 👋🏽</h1>
   
-  <p>Join <b><a href="https://thepomodoro.net" target="_blank">The Pomodoro! 🍅</a></b></p>
+  <p>Join <b><a href="https://thepomodoro.net" target="_blank">The Pomodoro</a>! 🍅</b></p>
   
   
   <p>💻 Computer engineering enthusiast, fullstack, learner<p/>
