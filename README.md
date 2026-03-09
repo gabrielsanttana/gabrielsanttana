@@ -8,7 +8,7 @@
   
   <p>💻 I like computers<p/>
   <p>💛 Currently working with the JavaScript fullstack ecosystem<p/>
-  <p>🎓 Graduated from the University of Campinas<p/>
+  <p>🎓 CS grad from <a href="https://www.timeshighereducation.com/world-university-rankings/university-campinas" target="_blank">University of Campinas</a><p/>
   <p>📖 Looking for open source contribution<p/>
   <p>🔣 Digging into low-level with x86-64<p/>
 
