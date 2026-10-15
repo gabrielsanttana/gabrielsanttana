@@ -20,7 +20,7 @@
 
 </td>
   <td width="40%">
-    <img src="./.github/caricature.jpg" width="420px"/>
+    <img src="./.github/caricature-v2.jpg" width="420px"/>
   </td>
  </tr>
 </table>
